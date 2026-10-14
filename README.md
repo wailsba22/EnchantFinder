@@ -1,5 +1,12 @@
 # Enchant Filter
 
+[![GitHub stars](https://img.shields.io/github/stars/wailsba22/EnchantFinder?style=flat-square&logo=github)](https://github.com/wailsba22/EnchantFinder/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/wailsba22/EnchantFinder?style=flat-square&logo=github)](https://github.com/wailsba22/EnchantFinder/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/wailsba22/EnchantFinder?style=flat-square&logo=github)](https://github.com/wailsba22/EnchantFinder/issues)
+[![Latest release](https://img.shields.io/github/v/release/wailsba22/EnchantFinder?style=flat-square&logo=github)](https://github.com/wailsba22/EnchantFinder/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/wailsba22/EnchantFinder/total?style=flat-square&logo=github)](https://github.com/wailsba22/EnchantFinder/releases)
+[![Release build](https://img.shields.io/github/actions/workflow/status/wailsba22/EnchantFinder/release.yml?style=flat-square&label=release%20build)](https://github.com/wailsba22/EnchantFinder/actions/workflows/release.yml)
+
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-5D8C3D?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Fabric-client--side-DDBB77?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-25%2B-orange?style=for-the-badge)
