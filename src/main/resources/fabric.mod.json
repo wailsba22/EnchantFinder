@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantfilter",
+  "version": "${version}",
+  "name": "Enchant Filter",
+  "description": "A client-side enchantment filter and item highlighter for Minecraft 26.1.2",
+  "authors": [
+    "wailsba22"
+  ],
+  "contact": {
+    "homepage": "https://github.com/wailsba22/EnchantFinder",
+    "sources": "https://github.com/wailsba22/EnchantFinder",
+    "issues": "https://github.com/wailsba22/EnchantFinder/issues"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.enchantfilter.EnchantFilterClient"
+    ]
+  },
+  "mixins": [
+    "enchantfilter.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${fabricLoaderVersion}",
+    "minecraft": "26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

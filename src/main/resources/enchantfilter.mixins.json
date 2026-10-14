@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.enchantfilter.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "HandledScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

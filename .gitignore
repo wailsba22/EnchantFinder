@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Environment
+.env
+.DS_Store
+*.swp
+*.swo
+
+# Minecraft/Fabric
+run/
+remappedSrc/
